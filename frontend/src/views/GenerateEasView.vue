@@ -1,0 +1,26 @@
+<template>
+   <div>
+         <h1>Generate EAS for Student Reimbursement</h1>
+         <div class="mt-5">
+              <BillTable :bill_type="bill_type" />
+         </div>
+   </div>
+</template>
+
+<script>
+import BillTable from '@/components/BillTable.vue';
+export default {
+    name: 'GenerateEasView',
+    components: {
+        BillTable
+    },
+    data() {
+        return {
+            bill_type: 'generate-eas-sr',
+        };
+    },
+}
+</script>
+
+<style scoped>
+</style>

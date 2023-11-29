@@ -1,0 +1,67 @@
+[
+  {
+    "Department": "Finance",
+    "Email": "finance@iitmparadox.org"
+  },
+  {
+    "Department": "Design & Content",
+    "Email": "design-content@iitmparadox.org"
+  },
+  {
+    "Department": "Publicity & PR",
+    "Email": "publicrelations@iitmparadox.org"
+  },
+  {
+    "Department": "Security",
+    "Email": "security@iitmparadox.org"
+  },
+  {
+    "Department": "Accommodation & Mess",
+    "Email": "accommodation@iitmparadox.org"
+
+  },
+  {
+    "Department": "Facilities & Requirements",
+    "Email": "fr@iitmparadox.org"
+  },
+  {
+    "Department": "Hospitality",
+    "Email": "hospitality@iitmparadox.org"
+  },
+  {
+    "Department": "Sponsorship",
+    "Email": "partnership@iitmparadox.org"
+  },
+  {
+    "Department": "Sales & Merchandise",
+    "Email": "sales@iitmparadox.org"
+  },
+  {
+    "Department": "Student Relations",
+    "Email": "studentrelations@iitmparadox.org"
+  },
+  {
+    "Department": "Photography & Videography",
+    "Email": "photography@iitmparadox.org"
+  },
+  {
+    "Department": "Sports",
+    "Email": "sports@iitmparadox.org"
+  },
+  {
+    "Department": "Professionals",
+    "Email": "professionals@iitmparadox.org"
+  },
+  {
+    "Department": "Technicals",
+    "Email": "technicals@iitmparadox.org"
+  },
+  {
+    "Department": "Culturals",
+    "Email": "culturals@iitmparadox.org"
+  },
+  {
+    "Department": "WebOps",
+    "Email": "webops@iitmparadox.org"
+  }
+]
